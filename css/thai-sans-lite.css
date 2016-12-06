@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'ThaiSansLite';
+    src: url('../fonts/ThaiSansLite.eot');
+    src: url('../fonts/ThaiSansLite.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ThaiSansLite.woff') format('woff'),
+         url('../fonts/ThaiSansLite.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.thaisanslite{
+   font-family: 'ThaiSansLite', sans-serif;
+}
